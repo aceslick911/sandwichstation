@@ -1,0 +1,25 @@
+{
+  "name": "iquiz",
+  "version": "1.0.0",
+  "description": "iQuiz Powered by ReactJS and NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aceslick911/iquiz.git"
+  },
+  "keywords": [
+    "online",
+    "quiz",
+    "real-time",
+    "socket"
+  ],
+  "author": "Angelo Perera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aceslick911/iquiz/issues"
+  },
+  "homepage": "https://github.com/aceslick911/iquiz#readme"
+}
