@@ -1,0 +1,1186 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"saveS",
+				"SaveState"
+			],
+			[
+				"stateC",
+				"stateConfig"
+			],
+			[
+				"paren",
+				"parentWindow"
+			],
+			[
+				"eMessa",
+				"eMessageListenerType	enum"
+			],
+			[
+				"listen",
+				"listenFor"
+			],
+			[
+				"write",
+				"writeSync	function"
+			],
+			[
+				"total",
+				"testSplitTotal	var"
+			],
+			[
+				"pare",
+				"parentId	parameter"
+			],
+			[
+				"tElem",
+				"tElemName	local var"
+			],
+			[
+				"removed",
+				"removeSectionIds	property"
+			],
+			[
+				"update",
+				"updateTests	property"
+			],
+			[
+				"remo",
+				"removeTestIds	property"
+			],
+			[
+				"team",
+				"teamcityconf"
+			],
+			[
+				"que",
+				"queueData"
+			],
+			[
+				"build",
+				"buildData"
+			],
+			[
+				"stre",
+				"streamK"
+			],
+			[
+				"package",
+				"packageActive〔function〕"
+			],
+			[
+				"packa",
+				"packageActive〔function〕"
+			],
+			[
+				"users",
+				"userservicemode	var"
+			],
+			[
+				"uite",
+				"UITestsComplete	function"
+			],
+			[
+				"testr",
+				"testRailSync	module"
+			],
+			[
+				"testrate",
+				"testrailTests	parameter"
+			],
+			[
+				"get",
+				"getUITestCases	function"
+			],
+			[
+				"delete",
+				"deleteTestCase	function"
+			],
+			[
+				"newOut",
+				"newOutputData	local var"
+			],
+			[
+				"lastv",
+				"lastvo	local var"
+			],
+			[
+				"proces",
+				"processStack	var"
+			],
+			[
+				"logi",
+				"loginReady	method"
+			],
+			[
+				"lo",
+				"doLogin	method"
+			],
+			[
+				"kee",
+				"keepAlive	method"
+			],
+			[
+				"k",
+				"keepAliveEnabled	property"
+			],
+			[
+				"conn",
+				"connected	property"
+			],
+			[
+				"age",
+				"agentSocketMessage	function"
+			],
+			[
+				"reg",
+				"regMatch"
+			],
+			[
+				"basket",
+				"basketList	var"
+			],
+			[
+				"consol",
+				"consolidation	var"
+			],
+			[
+				"D",
+				"DBDatalord	var"
+			],
+			[
+				"headl",
+				"runNewsHeadlines	method"
+			],
+			[
+				"head",
+				"headlineSource	property"
+			],
+			[
+				"obs",
+				"observable	property"
+			],
+			[
+				"obser",
+				"observableArray	property"
+			],
+			[
+				"dash",
+				"dashPosition	class"
+			],
+			[
+				"observab",
+				"observableArray	property"
+			],
+			[
+				"encodeURI",
+				"encodeURIComponent	function"
+			],
+			[
+				"infoPrice",
+				"infoPricePositions	local var"
+			],
+			[
+				"deb",
+				"debugMode	var"
+			],
+			[
+				"refres",
+				"refreshTimer	property"
+			],
+			[
+				"rics",
+				"ricsCodes	parameter"
+			],
+			[
+				"TBLPrice",
+				"TBLPriceCache	var"
+			],
+			[
+				"close",
+				"closePrices	property"
+			],
+			[
+				"format",
+				"formatDateTime	function"
+			],
+			[
+				"dele",
+				"deleteAfterDate	function"
+			],
+			[
+				"DB",
+				"DBPrices	var"
+			],
+			[
+				"geti",
+				"getUTCMilliseconds	method"
+			],
+			[
+				"setIs",
+				"setUTCMilliseconds	method"
+			],
+			[
+				"sethou",
+				"setUTCHours	method"
+			],
+			[
+				"setut",
+				"setUTCHours	method"
+			],
+			[
+				"sta",
+				"startPrice	property"
+			],
+			[
+				"pdco",
+				"pdConsolidation	property"
+			],
+			[
+				"getTimeSeries",
+				"getTimeSeriesIntraDayForCodesCSV	function"
+			],
+			[
+				"sock",
+				"SocketDrive	class"
+			],
+			[
+				"sok",
+				"SokDrive	alias"
+			],
+			[
+				"refre",
+				"refreshTimer	property"
+			],
+			[
+				"iress",
+				"IRESS	module"
+			],
+			[
+				"dat",
+				"dataStack	local var"
+			],
+			[
+				"sub",
+				"subscriptions	var"
+			],
+			[
+				"op",
+				"openPrice	property"
+			],
+			[
+				"openPos",
+				"openPositions	parameter"
+			],
+			[
+				"imp",
+				"import	keyword"
+			],
+			[
+				"IGHis",
+				"IGHistoryRecord	interface"
+			],
+			[
+				"openpo",
+				"openPositions	local var"
+			],
+			[
+				"IG",
+				"IGHistoryReturn	interface"
+			],
+			[
+				"tra",
+				"transactionCosts	local var"
+			],
+			[
+				"getTimeSeriesFor",
+				"getTimeSeriesForCodes	function"
+			],
+			[
+				"trus",
+				"TrusteeAccounts	local var"
+			],
+			[
+				"newUnitb",
+				"newUnitBlocks	local var"
+			],
+			[
+				"Datalord",
+				"DatalordDatabaseData	interface"
+			],
+			[
+				"withdr",
+				"WithdrawTransactionRecords	var"
+			],
+			[
+				"bank",
+				"BankDetailsRecords	var"
+			],
+			[
+				"accounttr",
+				"AccountTransactionRecords	var"
+			],
+			[
+				"accoutn",
+				"AccountRecords	var"
+			],
+			[
+				"unit",
+				"UnitBlockRecords	var"
+			],
+			[
+				"accoun",
+				"AccountRecords	var"
+			],
+			[
+				"tusteea",
+				"TrusteeAccountRecords	var"
+			],
+			[
+				"sql",
+				"sqlRequest	parameter"
+			],
+			[
+				"getTimeSeriesForCodes",
+				"getTimeSeriesForCodesCSV	function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tsconfig.json",
+			"settings":
+			{
+				"buffer_size": 260,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server/tsconfig.json",
+			"settings":
+			{
+				"buffer_size": 228,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server/server.ts",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 744,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/tsconfig.json",
+			"settings":
+			{
+				"buffer_size": 321,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "typings/index.d.ts",
+			"settings":
+			{
+				"buffer_size": 151,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "gr",
+		"selected_items":
+		[
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"",
+				"Grunt"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Snippet: ref",
+				"Snippet: does a triple-slash reference"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: isnta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 324.0,
+		"history":
+		[
+			"tsc --version",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/git/iQuiz"
+	],
+	"file_history":
+	[
+		"/C/git/iQuiz/gulpfile.ts",
+		"/C/git/iQuiz/gulpfile.js",
+		"/C/git/iQuiz/public/scripts/scripts.js",
+		"/C/git/iQuiz/typings/index.d.ts",
+		"/C/git/iQuiz/node_modules/typescript/package.json",
+		"/C/Iress/Web/IressTraderPlus/Client/CoreClient/1.0/main/TraderPlus.CoreClient/ViewModules/CommonUtils/States/ICoreViewStore.d.ts",
+		"/C/Iress/Web/IressTraderPlus/Client/CoreClient/1.0/main/TraderPlus.CoreClient/ViewModules/Layout/LayoutWidgetBinding.ts",
+		"/C/Iress/Web/IressTraderPlus/Client/CoreClient/1.0/main/TraderPlus.CoreClient/ViewModules/WidgetPlugins/HotspotService/HotspotServicePlugin.ts",
+		"/C/Iress/Web/IressTraderPlus/Client/MarketClient/1.0/main/TraderPlus.MarketClient/ViewModules/Widgets/TradingView/TradingViewWidget.ts",
+		"/C/Iress/Web/IressTraderPlus/Client/CoreClient/1.0/main/TraderPlus.CoreClient/ViewModules/Layout/LayoutWindow.ts",
+		"/C/Iress/Web/IressTraderPlus/Client/CoreClient/1.0/main/TraderPlus.CoreClient/ViewModules/Widgets/PlaceholderWidget/LayoutPlaceholderWidget.ts",
+		"/C/git/ViewBoard/globalAuth.json",
+		"/C/git/ViewBoard/packages/atlassian/widgets/pending-PR/pending-PR.js",
+		"/C/git/ViewBoard/packages/atlassian/dashboards/viewpoint.json",
+		"/C/git/ViewBoard/packages/atlassian/dashboards/example1.json",
+		"/C/Iress/Web/IressTraderPlus/Client/CoreClient/1.0/main/TraderPlus.CoreClient/ViewModules/Layout/LayoutWidget.ts",
+		"/C/git/ViewBoard/packages/atlassian/jobs/blockers/blockers.js",
+		"/C/Iress/Web/IressTraderPlus/Client/MarketClient/1.0/main/TraderPlus.MarketClient/ViewModules/Widgets/TradingView/plugins/TradingViewChart/TradingViewChartPlugin.ts",
+		"/C/Iress/Web/IressTraderPlus/Client/MarketClient/1.0/main/TraderPlus.MarketClient/ViewModules/Widgets/TradingView/TradingViewWidgetBinding.ts",
+		"/C/Users/angelo.perera/AppData/Roaming/Sublime Text 3/Packages/User/SublimeGrunt.sublime-settings",
+		"/C/Users/angelo.perera/AppData/Roaming/Sublime Text 3/Packages/Grunt/SublimeGrunt.sublime-settings",
+		"/C/Iress/Web/IressTraderPlus/Client/CoreClient/1.0/main/TraderPlus.CoreClient/ViewModules/Layout/LayoutContainer.ts",
+		"/C/Iress/Web/IressTraderPlus/Client/MarketClient/1.0/main/TraderPlus.MarketClient/ViewModules/Widgets/QuoteWidget/test/QuoteWidgetTester.ts",
+		"/C/Iress/Web/IressTraderPlus/Test/TestUtils.ts",
+		"/C/Iress/Web/IressTraderPlus/Test/nodeUITests.ts",
+		"/C/Iress/Web/IressTraderPlus/Client/MarketClient/1.0/main/TraderPlus.MarketClient/DataModules/MarketDataTests/AlertCreateControllerTest.ts",
+		"/C/Iress/Web/IressTraderPlus/Client/MarketClient/1.0/main/TraderPlus.MarketClient/DataModules/MarketDataTests/AlertAmendControllerTest.ts",
+		"/C/Users/angelo.perera/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Iress/Web/IressTraderPlus/Client/coreclient/1.0/main/traderplus.coreclient/viewmodules/layout/layoutmessagemanager.ts",
+		"/C/Iress/Web/IressTraderPlus/Client/CoreClient/1.0/main/TraderPlus.CoreClient/ViewModules/Splitters/test/splitterLayoutTester.ts",
+		"/C/Iress/Web/IressTraderPlus/tsconfig.json",
+		"/C/Users/angelo.perera/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/angelo.perera/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Iress/Web/IressTraderPlus/Test/testRailSync.ts",
+		"/C/Iress/Web/IressTraderPlus/README.md",
+		"/C/Iress/Web/IressTraderPlus/Test/nodeUITests.js",
+		"/C/Users/angelo.perera/Downloads/macros/SplitterLayoutTester.testSplitAndRemoveWidgets (3).json",
+		"/C/Users/angelo.perera/Downloads/macros/SplitterLayoutTester.testSplitAndRemoveWidgets.json",
+		"/C/Users/angelo.perera/Desktop/copy/rdp/TV.vnc",
+		"/C/Iress/Web/IressTraderPlus/Test/viewpointMatrix.json",
+		"/C/Iress/Web/IressTraderPlus/Server/Core/1.0/main/TraderPlus.Core/ViewModules/TraderPlus.MarketClient/Widgets/QuoteWidget/test/QuoteWidgetTester.ts",
+		"/C/git/ViewBoard/packages/iress/widgets/teamcityStatus/teamcityStatus.js",
+		"/C/git/ViewBoard/node_modules/teamcity/lib/build-queue.js",
+		"/C/git/ViewBoard/packages/iress/jobs/teamcity/teamcity.js",
+		"/C/git/ViewBoard/packages/iress/dashboards/viewboard.json",
+		"/C/Iress/Web/IressTraderPlus/Server/Core/1.0/main/TraderPlus.Core/ViewModules/TraderPlus.CoreClient/WidgetPlugins/SlickGrid/SlickGridPlugin.ts",
+		"/C/Iress/Web/IressTraderPlus/Server/Core/1.0/main/TraderPlus.Core/Content/TestData/Replay/OrderTicketWidgetTester.testIfDoneFixedCoPanelOpen.json",
+		"/C/Iress/Web/IressTraderPlus/Server/Core/1.0/main/TraderPlus.Core/Content/TestData/Replay/OrderPadWidgetTester.testShowNewRegularStopLossTakeProfitBuyVolumeOrder.json",
+		"/C/Users/angelo.perera/Downloads/macros/SplitterLayoutTester.testAUMarketTemplate.json",
+		"/C/git/ViewBoard/packages/iress/jobs/vnc/vnc.js",
+		"/C/git/ViewBoard/node_modules/teamcity/lib/builds.js",
+		"/C/git/ViewBoard/packages/iress/jobs/testrail/testrail.js",
+		"/C/Users/angelo.perera/Desktop/copy/rdp/VM3.rdp",
+		"/C/Users/angelo.perera/Desktop/copy/rdp/CI7.vnc",
+		"/C/git/ViewBoard/packages/red6/widgets/datetime/datetime.js",
+		"/C/git/ViewBoard/packages/iress/widgets/vncWidget/vncWidget.js",
+		"/C/Users/angelo.perera/Downloads/macros/state.json",
+		"/C/Users/angelo.perera/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/SC6A6VZ4/state.json",
+		"/C/Users/angelo.perera/AppData/Local/Temp/dd_patch_KB3151378_20160616162127.log",
+		"/C/git/Primers/min/Primer/gruntfile.js",
+		"/C/git/Primers/min/Primer/server.js",
+		"/C/git/Primers/min/Primer/src/components/ComponentFactory.ts",
+		"/C/git/Primers/min/Primer/src/components/stockapp/stockapp.ts",
+		"/C/git/Primers/min/Primer/src/components/stocklist/stocklist.ts",
+		"/C/git/Primers/min/Primer/src/components/stockpanel/stockpanel.ts",
+		"/C/git/Primers/min/Primer/src/components/stockpanel/stockpanel.html",
+		"/C/git/Primers/min/Primer/src/components/tradewindow/tradewindow.html",
+		"/C/git/Primers/min/Primer/src/components/tradewindow/tradewindow.ts",
+		"/C/git/Primers/min/Primer/src/components/include.less",
+		"/C/git/Primers/min/Primer/src/server.ts",
+		"/C/Iress/Web/IressTraderPlus/package.json",
+		"/C/Users/angelo.perera/AppData/Local/Temp/dd_vs_enterprise_20160616163929.log",
+		"/C/Iress/Web/IressTraderPlus/GitExtensions.settings",
+		"/C/Users/angelo.perera/Downloads/macros/state (1).json",
+		"/C/Users/angelo.perera/Downloads/macros/SplitterLayoutTester.testColorWidget (1).json",
+		"/C/Users/angelo.perera/Downloads/macros/SplitterLayoutTester.testColorWidget.json",
+		"/C/git/ViewBoard/packages/atlassian/README.md",
+		"/C/Iress/Web/IressTraderPlus/Server/Core/1.0/main/TraderPlus.Core/Web.AppSettings.config",
+		"/C/Iress/Web/IressTraderPlus/exclude.txt",
+		"/C/Iress/Web/IressTraderPlus/Server/Core/1.0/main/TraderPlus.Core/gruntfile.ts",
+		"/C/git/ViewBoard/packages/iress/widgets/vncWidget/vncWidget.styl",
+		"/C/Iress/Web/IressTraderPlus/Test/TestUtils.js",
+		"/C/Users/angelo.perera/Desktop/copy/rdp/VM5.rdp",
+		"/C/Users/angelo.perera/Desktop/copy/rdp/VM2.rdp",
+		"/C/Iress/Web/IressTraderPlus/Test/allocateUser.ts",
+		"/C/Users/angelo.perera/Desktop/copy/rdp/CI2.vnc",
+		"/C/Users/angelo.perera/Desktop/copy/rdp/CI5.vnc",
+		"/C/Users/angelo.perera/Desktop/copy/rdp/CI8.vnc",
+		"/C/Iress/Web/IressTraderPlus/node_modules/chromedriver/package.json",
+		"/C/Users/angelo.perera/Downloads/macros/macroRecording (1).json",
+		"/C/Users/angelo.perera/Downloads/macro_testBasicStacking.json",
+		"/C/Users/angelo.perera/Downloads/macro_testTabCreationAndSwitching.json",
+		"/C/Users/angelo.perera/Downloads/macro_testAddRemoveWidget.json",
+		"/C/Users/angelo.perera/Downloads/macro_testDockMaximizeWidget.json",
+		"/C/Users/angelo.perera/Downloads/macro_testTabRemoval.json",
+		"/C/Users/angelo.perera/Downloads/macro_testDockToggle.json",
+		"/C/Users/angelo.perera/Downloads/macro_testSplitAndRemoveWidgets.json",
+		"/C/Users/angelo.perera/Downloads/macro_testLayoutQuoteWidgetData.json",
+		"/C/git/ViewBoard/packages/iress/widgets/appearin/appearin.html",
+		"/C/Iress/Web/IressTraderPlus/Test/UITests/tests/Trading/OrderPad/testOrderPadWidget.py",
+		"/C/Iress/Web/IressTraderPlus/Test/UITests/tests/Trading/Portfolio/testPortfolioDetailView.py",
+		"/C/Iress/Web/IressTraderPlus/Test/PyIressTest/AppCommon/PyIressTest/1.1/main/iresstest/service/traderplus/components/widgets/orderpad.py",
+		"/C/Iress/Web/IressTraderPlus/Test/PyIressTest/AppCommon/PyIressTest/1.1/main/iresstest/service/traderplus/components/widgets/chart.py",
+		"/C/Iress/Web/IressTraderPlus/Test/PyIressTest/AppCommon/PyIressTest/1.1/main/iresstest/service/traderplus/components/widgets/news.py",
+		"/C/git/ViewBoard/packages/iress/widgets/image/image.js",
+		"/C/git/ViewBoard/packages/iress/widgets/image/image.styl",
+		"/C/git/ViewBoard/packages/iress/widgets/gauge/gauge.js",
+		"/C/Users/angelo.perera/Downloads/macros/macro_testBasicStacking.json",
+		"/C/Users/angelo.perera/Downloads/macros/macro_testTabCreationAndSwitching.json",
+		"/C/Users/angelo.perera/Downloads/macros/macro_testDockMaximizeWidget.json",
+		"/C/Users/angelo.perera/Downloads/macros/macro_testTabCreationAndSwitching (1).json",
+		"/C/Users/angelo.perera/Downloads/macros/macro_testTabCreationAndSwitching (2).json",
+		"/C/Iress/Web/IressTraderPlus/Client/ClientCommon/1.0/main/TraderPlus.ClientCommon/Tools/gruntUtils.ts",
+		"/C/git/ViewBoard/packages/atlassian/widgets/clock/clock.html",
+		"/C/git/ViewBoard/packages/atlassian/widgets/clock/clock.js",
+		"/C/Iress/Web/IressTraderPlus/Test/matrixSync.ts",
+		"/C/git/okta/manifest.json",
+		"/C/git/okta/background.html",
+		"/C/git/okta/popup.html",
+		"/C/git/ViewBoard/packages/atlassian/jobs/issuecount/issuecount.js",
+		"/C/git/ViewBoard/packages/iress/jobs/goCD/goCD.js",
+		"/C/git/ViewBoard/packages/iress/jobs/goCD/testgo.js",
+		"/C/Users/angelo.perera/Downloads/macros/macroRecording (4).json",
+		"/C/Users/angelo.perera/Downloads/macros/macroRecording (3).json",
+		"/C/Users/angelo.perera/Downloads/macros/json_missingSecurityCodesLayout.json",
+		"/C/git/ViewBoard/packages/iress/jobs/teamcity/tstest.js",
+		"/C/Users/angelo.perera/Downloads/macros/state (6).json",
+		"/C/Users/angelo.perera/Downloads/macros/state (5).json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"*.ts, *.html",
+			"*.ts; *.html",
+			"*.ts",
+			"*.py",
+			"",
+			"C:\\Users\\angelo.perera\\Desktop\\dcdl\\",
+			"",
+			"*.ts",
+			"C:\\Users\\angelo.perera\\Desktop\\dcdl\\**\\*.ts",
+			"C:\\Users\\angelo.perera\\Desktop\\dcdl\\**\\*.txt",
+			"C:\\Users\\angelo.perera\\Desktop\\dcdl\\*.ts",
+			"C:\\Users\\angelo.perera\\Desktop\\dcdl\\",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pullrequests",
+			"blockers",
+			"deactivateWidget",
+			"placeholder",
+			"SaveState",
+			"removeFloat",
+			"initialize",
+			"locali",
+			"floatingcontainer",
+			"floating",
+			"contentwindow",
+			"contentWindow",
+			"isFloatingWidget",
+			"ILayoutOptions",
+			"config",
+			"floating",
+			"floatingwidget",
+			"totalFailed",
+			"AlertAmendControllerTest",
+			"listenFor",
+			"widgetID",
+			"activeWidget",
+			"activewidget",
+			"prepareUITests",
+			"seedRandom",
+			"shuffle",
+			"splice",
+			"chunk",
+			"statusOf",
+			"skip",
+			"duration",
+			"skip",
+			"prepareUITests",
+			"performUiTests",
+			"indexof",
+			"startTime",
+			"performUiTests",
+			"maxAttempts",
+			"performUiTests",
+			"prepareUITests",
+			"performUiTests",
+			"test faield:",
+			"badThingsHappened",
+			"testState.state.exception",
+			"processResults",
+			"TEST FAILED:",
+			"LogIntoViewPointAddBegin",
+			"performUiTests",
+			"prepareUITests",
+			"performUiTests",
+			"_state",
+			"driver",
+			"terminate",
+			"Promise",
+			"ITest",
+			"prepareUITests",
+			"performUiTests",
+			"prepareUITests",
+			"performUiTests",
+			"new pro",
+			"buildWebDriver",
+			"performUiTests",
+			"failed",
+			"AR_UPDATE_ORDER_DISPLAY",
+			"ad+ios",
+			"console.log",
+			"console",
+			"teamci",
+			"viewpoint",
+			"pass",
+			"errorValue",
+			"failed (",
+			"failed:",
+			"getSyncChanges",
+			"save",
+			"stack",
+			"view",
+			"ViewPoint_ViewPointCI",
+			"running ",
+			"testSplitTotal",
+			"running ui",
+			"failed",
+			"passe",
+			"failed",
+			"color",
+			"tests",
+			"running ui ",
+			"testSplitTotal",
+			"argv",
+			"testSplitTotal",
+			"testSplitIndex",
+			"argu",
+			"chrome",
+			"pop",
+			"popup",
+			"popup-blocking",
+			"argu",
+			"arg",
+			"moda",
+			"config",
+			"testName",
+			"createGauge",
+			"$(",
+			"notify",
+			"failed",
+			"browser",
+			"warning",
+			"message",
+			"fail",
+			"timeout",
+			"uiTestTimeoutMinutes",
+			"timeout",
+			"snapshot",
+			"snap",
+			"uiTestTimeout",
+			"uiTestTimeoutMinutes",
+			"chrome",
+			"uiTestBrowser",
+			"chrome",
+			"round(",
+			"performUiTests",
+			"path",
+			"chrome",
+			".ready",
+			"widget.maximize",
+			"config",
+			"Config",
+			"config"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$1",
+			".DateTime",
+			".Double",
+			".Short",
+			".Long",
+			".Short",
+			".Long",
+			".DateTime",
+			".String",
+			": eSdoField.",
+			"app.post('/api",
+			"app.get('/api",
+			"app.get('/api/",
+			",",
+			"",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tsconfig.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "server/tsconfig.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								220,
+								220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "server/server.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								205,
+								205
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/tsconfig.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "typings/index.d.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 196.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/TypeScript/TypeScript.sublime-build",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"placeholder",
+				"CoreClient\\TraderPlus.CoreClient\\ViewModules\\Widgets\\PlaceholderWidget\\LayoutPlaceholderWidget.ts"
+			],
+			[
+				"placeholderwidget",
+				"CoreClient\\TraderPlus.CoreClient\\ViewModules\\Widgets\\PlaceholderWidget\\LayoutPlaceholderWidget.ts"
+			],
+			[
+				"hotspotserv",
+				"CoreClient\\TraderPlus.CoreClient\\ViewModules\\WidgetPlugins\\HotspotService\\HotspotServicePlugin.ts"
+			],
+			[
+				"tradingviewbind",
+				"MarketClient\\TraderPlus.MarketClient\\ViewModules\\Widgets\\TradingView\\TradingViewWidgetBinding.ts"
+			],
+			[
+				"tradingviewpl",
+				"MarketClient\\TraderPlus.MarketClient\\ViewModules\\Widgets\\TradingView\\plugins\\TradingViewChart\\TradingViewChartPlugin.ts"
+			],
+			[
+				"layoutwindow",
+				"CoreClient\\TraderPlus.CoreClient\\ViewModules\\Layout\\LayoutWindow.ts"
+			],
+			[
+				"layoutwidget",
+				"CoreClient\\TraderPlus.CoreClient\\ViewModules\\Layout\\LayoutWidget.ts"
+			],
+			[
+				"nodeuit",
+				"\\\\Test\\nodeUITests.ts"
+			],
+			[
+				"quotewidgettest",
+				"MarketClient\\TraderPlus.MarketClient\\ViewModules\\Widgets\\QuoteWidget\\test\\QuoteWidgetTester.ts"
+			],
+			[
+				"messagemanager",
+				"CoreClient\\TraderPlus.CoreClient\\ViewModules\\Layout\\LayoutMessageManager.ts"
+			],
+			[
+				"layoutwidget.ts",
+				"CoreClient\\TraderPlus.CoreClient\\ViewModules\\Layout\\LayoutWidget.ts"
+			],
+			[
+				"splittertest",
+				"CoreClient\\TraderPlus.CoreClient\\ViewModules\\Splitters\\test\\splitterLayoutTester.ts"
+			],
+			[
+				"slickgridplugin.ts",
+				"TraderPlus.Core\\ViewModules\\TraderPlus.CoreClient\\WidgetPlugins\\SlickGrid\\SlickGridPlugin.ts"
+			],
+			[
+				"testra",
+				"testRailSync.ts"
+			],
+			[
+				"nodeuitests",
+				"nodeUITests.ts"
+			],
+			[
+				"cipull",
+				"ciPullRequest.ts"
+			],
+			[
+				"traderplustestcas",
+				"UITests\\tests\\traderplustestcase.py"
+			],
+			[
+				"quote",
+				"UITests\\tests\\Widget\\testQuoteWidget.py"
+			],
+			[
+				"login.html",
+				"PyIressTest\\AppCommon\\PyIressTest\\1.1\\main\\iresstest\\service\\traderplus\\traderplus_simple_login_semiprod.html"
+			],
+			[
+				"script",
+				"apiDash\\script.ts"
+			],
+			[
+				"server",
+				"server.ts"
+			],
+			[
+				"extcl",
+				"extClient.ts"
+			],
+			[
+				"datad",
+				"dataDownloader.ts"
+			],
+			[
+				"server.ts",
+				"server.ts"
+			],
+			[
+				"calculat",
+				"UnitPriceCalculator.ts"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

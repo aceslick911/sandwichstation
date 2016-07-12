@@ -1,2 +1,2 @@
-# iquiz
-iQuiz
+# iQuiz
+By Angelo Perera
