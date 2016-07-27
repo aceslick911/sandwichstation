@@ -4,7 +4,7 @@
         "noImplicitAny": false,
         "removeComments": true,
         "preserveConstEnums": true,
-        "outFile": "public/scripts/scripts.js",
+        "outFile": "../public/scripts/scripts.js",
         "sourceMap": true,
         "jsx": "react"
     },
