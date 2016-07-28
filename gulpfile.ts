@@ -1,30 +1,37 @@
 //<reference path="typings/index.d.ts"/> 
 
-var gulp = require('gulp');
-var ts = require('gulp-typescript');
+import gulp = require('gulp');
+import ts = require('gulp-typescript');
+const browserify = require('gulp-browserify');
+const rename = require('gulp-rename');
 
-var typescriptSrc = ts.createProject("src/tsconfig.json");
+gulp.task('typescript', () => {
+    const project = ts.createProject("tsconfig.json", {
+        typescript: require('typescript') // 2.0
+    });
+    const result = project.src()
+        .pipe(ts(project));
+    const js = result.js;
 
-gulp.task('typescript', ()=> 
-	typescriptSrc.src()
-    .pipe(ts({
-        noImplicitAny: false,            
-        sortOutput: true,
-        out: 'public/scripts/scripts.js'
+    js.pipe(gulp.dest('src'));
+});
+
+gulp.task('bundle', () => {
+    gulp.src('src/main.js')
+    .pipe(browserify({
+        insertGlobals: true,
+        debug: true
     }))
-    .pipe(ts(typescriptSrc))
-    .js.pipe(gulp.dest("public/scripts"))
-);
+    .on('prebundle', (bundle) => {
+        // bundle.external('react');
+        // bundle.external('react-dom');
+    })
+    .pipe(rename('bundle.js'))
+    .pipe(gulp.dest('src'));
+});
 
-gulp.task('deploy-jquery',()=> 
-	gulp.src("bower_components/jquery/dist/*.js")
-	.pipe(gulp.dest("public/assets/libs/"))
-);
-gulp.task('deploy-react',()=> 
-	gulp.src("bower_components/react/*.js")
-	.pipe(gulp.dest("public/assets/libs/"))
-);
+gulp.task('default', ['typescript', 'bundle']);
 
-gulp.task('default', ()=>
-  gulp.start('typescript', 'deploy-jquery', 'deploy-react')
-)
+gulp.task('watch', ['default'], () => {
+    gulp.watch('src/**/*.tsx?', ['default']);
+});

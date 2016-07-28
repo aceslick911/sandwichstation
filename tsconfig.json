@@ -1,13 +1,21 @@
 {
     "compilerOptions": {
-        "module": "amd",
+        "module": "commonjs",
+        "target": "es5",
         "noImplicitAny": false,
+        "strictNullChecks": true,
+        "pretty": true,
         "removeComments": true,
         "preserveConstEnums": true,
-        "sourceMap": false
+        "sourceMap": true,
+        "experimentalDecorators": true,
+        "jsx": "react"
     },
-    "files": [
+    "include": [
+        "src/**/*.tsx?"
+    ],
+    "exclude": [
         "gulpfile.ts",
-        "typings/index.d.ts"
+        "node_modules"
     ]
 }

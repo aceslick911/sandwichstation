@@ -1,23 +1,19 @@
 {
-  "name": "Sandwich Station",
-  "version": "1.0.0",
-  "description": "Sandwich Station Powered by ReactJS and NodeJS",
+  "name": "sandwich-station",
+  "version": "0.0.0",
+  "description": "Sandwich Station Powered by React and NodeJS",
   "main": "index.js",
-  "scripts": {    
-    "build": "gulp",
-    "start": "node server/server.js",
+  "scripts": {
+    "build": "tsc --module commonjs gulpfile.ts && gulp",
+    "watch": "tsc --module commonjs gulpfile.ts && gulp watch",
+    "start": "node src/server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aceslick911/sandwichstation.git"
+    "url": "aceslick911/sandwichstation"
   },
-  "keywords": [
-    "online",
-    "quiz",
-    "real-time",
-    "socket"
-  ],
+  "keywords": [],
   "author": "Angelo Perera",
   "license": "MIT",
   "bugs": {
@@ -25,7 +21,22 @@
   },
   "homepage": "https://github.com/aceslick911/sandwichstation#readme",
   "dependencies": {
+    "express": "^4.14.0",
+    "lodash": "^4.14.0",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.0.29",
+    "@types/gulp": "^3.8.28",
+    "@types/gulp-typescript": "0.0.29",
+    "@types/lodash": "0.0.28",
+    "@types/node": "^4.0.30",
+    "@types/react": "^0.14.27",
+    "@types/react-dom": "^0.14.14",
     "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-rename": "^1.2.2",
     "gulp-typescript": "^2.13.6",
     "typescript": "^2.0.0"
   }
