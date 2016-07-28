@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aceslick911/iquiz.git"
+    "url": "git+https://github.com/aceslick911/sandwichstation.git"
   },
   "keywords": [
     "online",
@@ -21,9 +21,9 @@
   "author": "Angelo Perera",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aceslick911/iquiz/issues"
+    "url": "https://github.com/aceslick911/sandwichstation/issues"
   },
-  "homepage": "https://github.com/aceslick911/iquiz#readme",
+  "homepage": "https://github.com/aceslick911/sandwichstation#readme",
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-typescript": "^2.13.6",
