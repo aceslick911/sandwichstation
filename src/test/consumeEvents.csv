@@ -1,0 +1,35 @@
+Session,Person,Date,Item,Type,Servings,Status
+1,Angelo,27/7/16,Bread,Mixed Grain,1,0.75
+1,Angelo,27/7/16,Lettuce,Green,1,0.75
+1,Angelo,27/7/16,Condiment,Hot English Mustard,1,0.75
+1,Angelo,27/7/16,Condiment,Gherkin Relish,1,0.75
+1,Angelo,27/7/16,Deli,Beef Pastrami,1,0.5
+2,Angelo,27/7/16,Bread,Mixed Grain,1,0.75
+2,Angelo,27/7/16,Condiment,Penut Butter Crunchy,1,0.75
+2,Angelo,27/7/16,Condiment,Jam 4 Fruits,1,0.75
+3,Angelo,27/7/16,Bread,Mixed Grain,1,0.5
+3,Angelo,27/7/16,Condiment,Hommus,1,0.75
+3,Angelo,27/7/16,Condiment,Jam 4 Fruits,1,0.75
+4,Angelo,27/7/16,Bread,Mixed Grain,1,0.5
+4,Angelo,27/7/16,Condiment,Hommus,1,0.75
+5,Angelo,28/7/16,Bread,Mixed Grain,1,0.25
+5,Angelo,28/7/16,Condiment,Hommus,1,0.5
+5,Angelo,28/7/16,Lettuce,Green,1,0.5
+5,Angelo,28/7/16,Deli,Beef Pastrami,1,0
+6,Angelo,28/7/16,Bread,Mixed Grain,1,0.25
+6,Angelo,28/7/16,Lettuce,Green,1,0.5
+6,Angelo,28/7/16,Condiment,Aioli Heinz,1,0.75
+6,Angelo,28/7/16,Deli,Chicken Pulled,1,0.5
+6,Angelo,28/7/16,Condiment,Butter Devondale,1,0.75
+7,Angelo,28/7/16,Bread,Mixed Grain,1,0
+7,Angelo,28/7/16,Condiment,Hommus,1,0.5
+8,Angelo,29/7/16,Bread,Mixed Grain,1,0.25
+8,Angelo,29/7/16,Lettuce,Green,1,0.5
+8,Angelo,29/7/16,Condiment,Hommus,1,0.75
+8,Angelo,29/7/16,Deli,Chicken Pulled,1,0.5
+9,Angelo,2/8/16,Bread,Wonder White,1,0.75
+9,Angelo,2/8/16,Can,Tuna John West,1,0
+9,Angelo,2/8/16,Deli,Dried Tomatoes,1,0.75
+10,Angelo,2/8/16,Bread,Wonder White,1,0.75
+10,Angelo,2/8/16,Condiment,Hommus,1,0.25
+10,Angelo,2/8/16,Deli,Dried Tomatoes,1,0.5
