@@ -1,3 +1,5 @@
+/// <reference path="../types.d.ts" />
+
 import express = require('express');
 import path = require('path');
 const app = express();

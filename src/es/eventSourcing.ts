@@ -1,13 +1,13 @@
 
-namespace ES.Events {
-	export interface IEvent {
-		version: number;
-		domain: string;
-	}
+
+export interface IEvent {
+	version: number;
+	domain: string;
 }
 
 
-namespace ES.Commands {
+
+export namespace Commands {
 	export interface ICommandParameters {
 
 	}
@@ -23,16 +23,16 @@ namespace ES.Commands {
 }
 
 
-namespace ES.Views {
-	export class ViewBuilder {
-		protected state: any;
 
-		processEvent(event: Events.IEvent) {
-			//Does nothing
-		}
+export class ViewBuilder {
+	protected state: any;
 
-		getState(): any {
-			return this.state;
-		};
+	processEvent(event: IEvent) {
+		//Does nothing
 	}
+
+	getState(): any {
+		return this.state;
+	};
 }
+

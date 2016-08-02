@@ -1,4 +1,4 @@
-Date,Person,Item,Desc,Cost,Size,Qty,Expiry
+Date,Person,Name,Desc,Cost,Size,Qty,Expiry
 27/7/16,Angelo,Bread,Mixed Grain,3.85,850,1,7
 27/7/16,Angelo,Lettuce,Green,2.5,1,1,14
 27/7/16,Angelo,Condiment,Hot English Mustard,3.29,175,1,180

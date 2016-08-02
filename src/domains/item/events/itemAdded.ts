@@ -1,6 +1,7 @@
 /// <reference path="../item.d.ts" />
 
-namespace ES.Events{
+import {IEvent} from "../../../es/eventSourcing"
+
 	export class EventItemAdded implements IEvent {
 		domain = "item"
 		version = 1
@@ -16,4 +17,3 @@ namespace ES.Events{
 			){
 		}
 	}
-}
