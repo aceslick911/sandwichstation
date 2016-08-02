@@ -1,4 +1,4 @@
-Session,Person,Date,Item,Type,Servings,Status
+Session,Person,Date,Item,Desc,Servings,Status
 1,Angelo,27/7/16,Bread,Mixed Grain,1,0.75
 1,Angelo,27/7/16,Lettuce,Green,1,0.75
 1,Angelo,27/7/16,Condiment,Hot English Mustard,1,0.75

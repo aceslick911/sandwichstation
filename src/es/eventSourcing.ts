@@ -3,7 +3,6 @@ namespace ES.Events {
 	export interface IEvent {
 		version: number;
 		domain: string;
-		data: any;
 	}
 }
 
@@ -26,7 +25,7 @@ namespace ES.Commands {
 
 namespace ES.Views {
 	export class ViewBuilder {
-		private state: any;
+		protected state: any;
 
 		processEvent(event: Events.IEvent) {
 			//Does nothing
